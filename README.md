@@ -27,34 +27,29 @@ The objective of this project is to:
 ---
 
 ## 📁 Project Structure
-Entertainer-Data-Analytics/
-│
-├── data_basic.xlsx # Basic entertainer data
-├── data_Breakthrough_Info.xlsx # Breakthrough entertainer history
-├── data_Last_work_Info.xlsx # Last work info dataset
-├── Source Code.ipynb # Jupyter Notebook performing EDA
-├── Entertainer Data Analytics.pdf # Summary and insights report
-├── data analytics.png # Visualization sample
-├── download.png # Asset image
-└── README.md # Project documentation
-
-
+      Entertainer-Data-Analytics/
+      │
+      ├── data_basic.xlsx # Basic entertainer data
+      ├── data_Breakthrough_Info.xlsx # Breakthrough entertainer history
+      ├── data_Last_work_Info.xlsx # Last work info dataset
+      ├── Source Code.ipynb # Jupyter Notebook performing EDA
+      ├── Entertainer Data Analytics.pdf # Summary and insights report
+      ├── data analytics.png # Visualization sample
+      ├── download.png # Asset image
+      └── README.md # Project documentation
+      
 ---
 
 ## 🔍 How It Works
 
 1. **Load Data**  
    Import multiple Excel files containing entertainer related data.
-
 2. **Data Cleaning**  
    Handle missing values and transform columns into usable formats.
-
 3. **Exploratory Analysis**  
    Use Python (pandas) to explore distributions, summaries, and patterns.
-
 4. **Visualizations**  
    Plot charts to show trends across entertainer careers and performances.
-
 5. **Insights & Reporting**  
    Compile key insights into a summarized report (`Entertainer Data Analytics.pdf`).
 
